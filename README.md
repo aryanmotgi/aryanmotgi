@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aryanmotgi/aryanmotgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aryan 👋
 
-Here are some ideas to get you started:
+**Builder. Shipping things that actually matter.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Full-stack by necessity. Systems thinker by default.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryanmotgi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanmotgi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanmotgi)
+
+</div>
+
+---
+
+I build at the intersection of AI, healthcare, and fintech — full-stack from the database to the UI. I don't wait for permission to ship.
+
+Most of what I build comes from a simple question: *why is this still broken?* CareCompanion came from realizing caregivers have no real coordination layer. ArcusWeb came from watching e-commerce workflows stay stuck in the dark ages.
+
+---
+
+## 🔨 What I've Built
+
+*Check my pinned repos below ↓*
+
+---
+
+## 🛠️ Stack
+
+<div align="center">
+
+| Layer | Tools |
+|-------|-------|
+| **Languages** | TypeScript · Python · JavaScript |
+| **Frameworks** | Next.js · React · FastAPI · Node.js |
+| **AI/ML** | Anthropic Claude · OpenAI · LangChain |
+| **Infra** | Supabase · Vercel · PostgreSQL · Docker |
+| **Tools** | Alpaca API · Playwright · GitHub Actions |
+
+</div>
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanmotgi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmotgi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff)
+
+</div>
+
+---
+
+<div align="center">
+
+*Always down to collab on something ambitious.*
+
+</div>
