@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,a855f7&height=200&section=header&text=Aryan%20Motgi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Builder.%20Shipping%20things%20that%20actually%20matter.&descAlignY=55&descColor=c4b5fd" />
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aryanmotgi.aryanmotgi&style=flat-square&color=a855f7&labelColor=0d1117&label=profile%20views)
+
 # Hi, I'm Aryan 👋
 
 **Full-stack by necessity. Systems thinker by default.**
@@ -49,9 +51,13 @@ Check my pinned repos below ↓
 
   <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanmotgi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff)
+  <img src="https://streak-stats.demolab.com?user=aryanmotgi&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmotgi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff)
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanmotgi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmotgi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=6" alt="Top Languages" />
 
   </div>
 
