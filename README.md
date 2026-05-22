@@ -53,11 +53,9 @@ Check my pinned repos below ↓
 
   <img src="https://streak-stats.demolab.com?user=aryanmotgi&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
 
-  <br/>
+  <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanmotgi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&count_private=true" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanmotgi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanmotgi&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 
   </div>
 
